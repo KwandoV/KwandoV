@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwandov" alt="kwandov" /></a> </p>
 
-- 🔭 I’m currently working on **learning web dev via the Odin project**
+- 🔭 I’m currently working on **learning c# ,T-SQL,React**
 
 - 🌱 I’m currently learning **Java,Javascript ,css and html**
 
